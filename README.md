@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://davidborges.xyz/assets/space.gif)
+
 <!--
 **cosmonautd/cosmonautd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
