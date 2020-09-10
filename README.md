@@ -2,9 +2,9 @@
 
 <!--
 **cosmonautd/cosmonautd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my master's thesis, neat software projects at @raiz-software and a couple of my own short stories
 - 🌱 I’m currently learning Go, microservices and data science
