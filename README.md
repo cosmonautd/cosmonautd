@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on amazing ideas
 - 💬 Ask me about machine learning, chess and science fiction!
 - 📫 How to reach me: david.borges@pm.me
-- 😄 Pronouns: He/Him
 <!--
 - ⚡ Fun fact:
 -->
