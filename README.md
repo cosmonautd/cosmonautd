@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my master's thesis, neat software projects at [Raiz Software](https://raiz.dev) and my own short stories at [Inexista](https://davidborges.xyz/inexista)
+- 🔭 I’m currently working on my master's thesis, neat software at [Raiz Software](https://raiz.dev) and short stories at [Inexista](https://inexista.com)
 - 🌱 I’m currently learning Go, microservices and data science
 - 👯 I’m looking to collaborate on amazing ideas
 - 💬 Ask me about machine learning, chess and science fiction!
