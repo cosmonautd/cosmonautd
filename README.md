@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my master's thesis, neat projects at [Raiz Software](https://raiz.dev) and short stories at [Inexista](https://inexista.com)
-- 🌱 I’m currently learning Go, microservices and data science
+- 🌱 I’m currently learning Go, microservices and TensorFlow
 - 👯 I’m looking to collaborate on amazing ideas
 - 💬 Ask me about machine learning, chess and science fiction!
 - 📫 How to reach me: david.borges@pm.me
